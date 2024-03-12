@@ -1,0 +1,44 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: poppinsregular;
+  max-width: 1200px;
+  margin: 7 auto;
+  padding: 15px;
+}
+
+header {
+  background-color: rgb(243, 216, 243);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  flex-direction: column;
+  line-height: 19px;
+  height: 34px;
+  margin: 0%;
+}
+
+li {
+  display: inline-block;
+  margin: 20px;
+}
+
+h1 {
+  margin: 0%;
+  padding-left: 10%;
+}
+
+h2 {
+  margin: 0%;
+  padding-left: 10%;
+}
+
+mein {
+  display: flex;
+  flex-direction: row;
+  margin-top: 60px;
+}
